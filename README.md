@@ -66,33 +66,33 @@ Example:
 
 📂 Project Structure (Recommended)
 
-lib/
-├─ main.dart
-├─ app.dart                   # App entry with routes & theme
-├─ bloc/                      # All BLoC logic
-│  ├─ city_bloc/
-│  │  ├─ city_bloc.dart
-│  │  ├─ city_event.dart
-│  │  ├─ city_state.dart
-│  ├─ settings_bloc/
-│     ├─ settings_bloc.dart
-│     ├─ settings_event.dart
-│     ├─ settings_state.dart
-├─ models/
-│  └─ city.dart
-├─ repositories/
-│  └─ city_repository.dart
-├─ services/
-│  └─ storage_service.dart
-├─ screens/
-│  ├─ home_screen.dart
-│  └─ settings_screen.dart
-├─ widgets/
-│  ├─ city_selector.dart
-│  ├─ season_selector.dart
-│  └─ month_temps_form.dart
-└─ utils/
-   └─ seasons.dart
+    lib/
+    ├─ main.dart
+    ├─ app.dart                   # App entry with routes & theme
+    ├─ bloc/                      # All BLoC logic
+    │  ├─ city_bloc/
+    │  │  ├─ city_bloc.dart
+    │  │  ├─ city_event.dart
+    │  │  ├─ city_state.dart
+    │  ├─ settings_bloc/
+    │     ├─ settings_bloc.dart
+    │     ├─ settings_event.dart
+    │     ├─ settings_state.dart
+    ├─ models/
+    │  └─ city.dart
+    ├─ repositories/
+    │  └─ city_repository.dart
+    ├─ services/
+    │  └─ storage_service.dart
+    ├─ screens/
+    │  ├─ home_screen.dart
+    │  └─ settings_screen.dart
+    ├─ widgets/
+    │  ├─ city_selector.dart
+    │  ├─ season_selector.dart
+    │  └─ month_temps_form.dart
+    └─ utils/
+       └─ seasons.dart
 
 
 📦 Installation & Run
