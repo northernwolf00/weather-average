@@ -3,6 +3,15 @@
 WeatherApp — Simple Weather Application (Flutter + BLoC)
 📌 Overview
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/photo1.jpeg" alt="" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/photo2.jpeg" alt=" " width="45%"/>
+</p>
+
+
 WeatherApp is a simple Flutter application with two screens that demonstrates working with dynamic data, state management using BLoC, and persistent storage.
 
     Screen 1 — Display:
